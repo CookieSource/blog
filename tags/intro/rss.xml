@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-      <title>cookiesource - intro</title>
+      <title>Cookiesource - intro</title>
       <link>https://cookiesource.dev</link>
       <description>Notes on Linux and tech by cookiesource</description>
       <generator>Zola</generator>
@@ -11,7 +11,7 @@
       <item>
           <title>Hello, cookiesource</title>
           <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-          <author>cookiesource</author>
+          <author>Cookiesource</author>
           <link>https://cookiesource.dev/blog/hello-world/</link>
           <guid>https://cookiesource.dev/blog/hello-world/</guid>
           <description xml:base="https://cookiesource.dev/blog/hello-world/">&lt;p&gt;Welcome to my new blog. I’ll write about Linux, homelab, and random tinkering.&lt;&#x2F;p&gt;
